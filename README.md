@@ -1,6 +1,6 @@
 # O que fazer
 
-Desenvolver a página Home que consta na pasta [assets](https://github.com/agenciaWBusiness/Teste-Wordpress) utilizando o framework WordPress.
+Desenvolver a página Home que consta na pasta [assets](https://github.com/agenciaWBusiness/Teste-Wordpress) utilizando o CMS WordPress.
 
 ## O que deve conter
 
